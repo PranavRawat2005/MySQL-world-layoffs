@@ -25,14 +25,13 @@ WHERE  percentage_laid_off = 1
 ORDER BY funds_raised_millions DESC;
 
 -- Companies with the biggest single Layoff
-
 SELECT company, total_laid_off
 FROM world_layoffs.layoffs_staging
 ORDER BY 2 DESC
 LIMIT 5;
 
 
--- Companies with the most Total Layoffs
+-- Companies with the most 'Total Layoffs'
 SELECT company, SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY company
@@ -48,25 +47,27 @@ GROUP BY location
 ORDER BY 2 DESC
 LIMIT 10;
 
--- this is the total in the past 3 years or in the dataset
+-- by country
 
 SELECT country, SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY country
 ORDER BY 2 DESC;
 
+-- by year
+
 SELECT YEAR(date), SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY YEAR(date)
 ORDER BY 1 ASC;
 
-
+-- by industry
 SELECT industry, SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY industry
 ORDER BY 2 DESC;
 
-
+-- by stage
 SELECT stage, SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY stage
