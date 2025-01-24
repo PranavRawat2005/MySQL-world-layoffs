@@ -43,10 +43,12 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
 
 Project Insights as of March 2023
 
-## Week-on-Week change:
-* Revenue increased by 28.8%,
-* Total Transaction Amt & Count increased by 35% & 3.4%
-* Customer count increased by 28.3%
+## Year
+* Layoffs were the lowest during 2021 where a total of 5,843 layoffs were registered worldwide.
+* Layoffs peaked during 2022 where a staggering 92,877 layoffs were seen worldwide.
+* During the 3 years, January registered the most layoffs (56,613) whereas September accumulated the least amount of layoffs (5028).
+* **Covid-19 is the most probable reason for the rise in layoffs worldwide.**
+
 
 ## Overview YTD(Year to Date) :
 * Overall revenue is 57M
