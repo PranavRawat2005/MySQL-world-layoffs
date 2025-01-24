@@ -44,23 +44,28 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
 Project Insights as of March 2023
 
 ## Year
-* Layoffs were the lowest during 2021 where a total of 5,843 layoffs were registered worldwide.
-* Layoffs peaked during 2022 where a staggering 92,877 layoffs were seen worldwide.
-* During the 3 years, January registered the most layoffs (56,613) whereas September accumulated the least amount of layoffs (5,028).
+* Layoffs were the lowest during **2021** where a total of **5,843** layoffs were registered worldwide.
+* Layoffs peaked during **2022** where a staggering **92,877** layoffs were seen worldwide.
+* During the 3 years, **January** registered the most layoffs (56,613) whereas **September** accumulated the least amount of layoffs (5,028).
 * **Covid-19 is the most probable reason for the rise in layoffs worldwide.**
 
 
 ## Company
-* Google had the most layoffs in this time period with a total of 12,000 employees expelled from the company.
-* Meta registered the 2nd highest layoffs with a total of 11,000 employees expelled from the company.
-* Amazon,Microsoft,Ericsson were 3rd,4th,5th with 10,000 , 10,000 , 8500 employees laid off respectively.
-* In **India** Byju's registered the most layoffs with a total of 2,500 total layoffs.
+* **Google** had the most layoffs in this time period with a total of **12,000** employees expelled from the company.
+* **Meta** registered the 2nd highest layoffs with a total of **11,000** employees expelled from the company.
+* Amazon,Microsoft,Ericsson were 3rd,4th,5th with **10,000** , **10,000** , **88500** employees laid off respectively.
+* In **India** Byju's registered the most layoffs with a total of **2,500** total layoffs.
 
 ## Industry
-* The Consumer industry saw a sum of 35,130 layoffs worldwide.
-* Whereas the Finance and Healthcare industry registered 18,270 and 16,570 layoffs respectively.
-* In **India** the Education industry accumulated the most layoffs (3,275).
-  
+* The **Consumer** industry saw a sum of **35,130** layoffs worldwide.
+* Whereas the **Finance** and **Healthcare** industry registered **18,270** and **16,570** layoffs respectively.
+* In **India** the **Education** industry accumulated the most layoffs (3,275).
+
+## Country
+* **The United States** witnessed the most layoffs(1,49,558) with the majority coming from the **SF Bay Area** (72,085).
+* **India** had the 2nd most layoffs (19,378) with **Bengaluru**(8,872) and **Gurugram**(4,256) having the most layoffs.
+
+
 
      
 
