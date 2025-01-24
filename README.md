@@ -41,7 +41,7 @@
   
 # Insights
 
-### Project Insights as of March 2023
+#### Project Insights as of March 2023
 
 ## Year
 * Layoffs were the lowest during **2021** where a total of **5,843** layoffs were registered worldwide.
