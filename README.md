@@ -10,15 +10,15 @@
 To analyze global layoff trends and patterns by cleaning and processing raw data, performing exploratory data analysis, and presenting actionable insights through an interactive Power BI dashboard.
 
 # Tools Used
-Power BI
-MySql
+-Power BI
+-MySql
 
 # Steps
    - Imported the global layoffs dataset from a csv file to MySQL server
    - Made a MySql database called layoffs
    - Made a staging table - layoffs_staging
      
- ### Data Cleaning
+ #### Data Cleaning
    - Removed the duplicates.
    - Standardized the dataset by rectifying the date format and removing inconsistencies
    - Removed the rows in which total_laid_off and percentage_laid_off were null or blank
