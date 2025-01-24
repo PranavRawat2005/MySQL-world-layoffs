@@ -46,19 +46,18 @@ Project Insights as of March 2023
 ## Year
 * Layoffs were the lowest during 2021 where a total of 5,843 layoffs were registered worldwide.
 * Layoffs peaked during 2022 where a staggering 92,877 layoffs were seen worldwide.
-* During the 3 years, January registered the most layoffs (56,613) whereas September accumulated the least amount of layoffs (5028).
+* During the 3 years, January registered the most layoffs (56,613) whereas September accumulated the least amount of layoffs (5,028).
 * **Covid-19 is the most probable reason for the rise in layoffs worldwide.**
 
 
-## Overview YTD(Year to Date) :
-* Overall revenue is 57M
-* Total interest is 8M
-* Total transaction amount is 46M
-* Male customers are contributing more in revenue 31M, female 26M
-* Blue & Silver credit card are contributing to 93% of overall transactions
-* TX, NY & CA is contributing to 68% of Total Revenue
-* Overall Activation rate is 57.5%
-* Overall Delinquent rate is 6.06%
+## Company
+* Google had the most layoffs in this time period with a total of 12,000 employees expelled from the company.
+* Meta registered the 2nd highest layoffs with a total of 11,000 employees expelled from the company.
+* Amazon,Microsoft,Ericsson were 3rd,4th,5th with 10,000 , 10,000 , 8500 employees laid off respectively.
+* In **India** Byju's registered the most layoffs with a total of 2,500 total layoffs.
+
+## 
+  
 
      
 
