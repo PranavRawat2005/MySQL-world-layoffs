@@ -10,8 +10,8 @@
 To analyze global layoff trends and patterns by cleaning and processing raw data, performing exploratory data analysis, and presenting actionable insights through an interactive Power BI dashboard.
 
 # Tools Used
--Power BI
--MySql
+* Power BI
+* MySql
 
 # Steps
    - Imported the global layoffs dataset from a csv file to MySQL server
