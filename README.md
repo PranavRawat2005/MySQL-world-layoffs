@@ -10,8 +10,8 @@
 To analyze global layoff trends and patterns by cleaning and processing raw data, performing exploratory data analysis, and presenting actionable insights through an interactive Power BI dashboard.
 
 # Tools Used
-- Power BI
-- MySql
+Power BI
+MySql
 
 # Steps
    - Imported the global layoffs dataset from a csv file to MySQL server
@@ -26,7 +26,7 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
 
 ### Exploratory Data Analysis
    - Used the aggregating functions to derive key insights.
-   - Used CTEs and Temp Tables
+   - Used CTEs and Temp Tables.
    - Used JOIN and WHERE functions.
      
 ### Dashboard
@@ -41,7 +41,8 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
   
 # Insights
 
--Project Insights- Week 53 (31st Dec)
+Project Insights as of March 2023
+
 ## Week-on-Week change:
 * Revenue increased by 28.8%,
 * Total Transaction Amt & Count increased by 35% & 3.4%
