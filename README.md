@@ -7,7 +7,7 @@
 • Built an interactive, real-time dashboard in Power BI with DAX functions and filters for dynamic insights.
 
 # Project Objective
-To analyze global layoff trends and patterns by cleaning and processing raw data, performing exploratory data analysis, and presenting actionable insights through an interactive Power BI dashboard.
+***To analyze global layoff trends and patterns by cleaning and processing raw data, performing exploratory data analysis, and presenting actionable insights through an interactive Power BI dashboard.***
 
 # Tools Used
 * Power BI
