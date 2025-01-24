@@ -56,7 +56,10 @@ Project Insights as of March 2023
 * Amazon,Microsoft,Ericsson were 3rd,4th,5th with 10,000 , 10,000 , 8500 employees laid off respectively.
 * In **India** Byju's registered the most layoffs with a total of 2,500 total layoffs.
 
-## 
+## Industry
+* The Consumer industry saw a sum of 35,130 layoffs worldwide.
+* Whereas the Finance and Healthcare industry registered 18,270 and 16,570 layoffs respectively.
+* In **India** the Education industry accumulated the most layoffs (3,275).
   
 
      
