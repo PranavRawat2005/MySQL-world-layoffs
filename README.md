@@ -22,9 +22,19 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
    - Removed the duplicates.
    - Standardized the dataset by rectifying the date format and removing inconsistencies
    - Removed the rows in which total_laid_off and percentage_laid_off were null or blank
-   - Removed rows and columns which were unnecessary for our dataset
+   - Removed rows and columns which were unnecessary for our dataset.
 
-Exploratory Data Analysis
+### Exploratory Data Analysis
+   - Used the aggregating functions to derive key insights.
+   - Used CTEs and Temp Tables
+   - Used JOIN and WHERE functions.
+     
+### Dashboard
+   - Connected MySQL database to Power BI desktop.
+   - Performed DAX queries for manipulating the dataset.
+   - Used bar charts, column charts, line chart, map graph for the visualization of dataset.
+   - Inserted slicers for Date,industry,country & location,stage.
+   - Inserted 2 KPI cards - Total Layoffs and Funds raised.
   
 
     
