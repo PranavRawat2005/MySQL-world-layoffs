@@ -67,7 +67,7 @@ Project Insights as of March 2023
 * **The Netherlands** had the 3rd most layoffs (11,220) with **Amsterdam** accumulating the majority of them (11,140).
 
 ## Stage
-* Companies that were in a **Post - IPO** stage laid off the most employees - **1,16,564**.
+* Companies that were in a **Post - IPO** stage laid off the most employees - **1,16,564** layoffs.
 * Followed by **Acquired** with 22,903 layoffs and Series C with **14,954** layoffs.
 * In **India** most number of layoffs were seen from companies which were in the **Private Equity** stage - **8080** layoffs.
 
