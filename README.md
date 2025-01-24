@@ -18,13 +18,13 @@ To analyze global layoff trends and patterns by cleaning and processing raw data
    - Made a MySql database called layoffs
    - Made a staging table - layoffs_staging
      
-    ## data cleaning
+ data cleaning
    - Removed the duplicates.
    - Standardized the dataset by rectifying the date format and removing inconsistencies
    - Removed the rows in which total_laid_off and percentage_laid_off were null or blank
    - Removed rows and columns which were unnecessary for our dataset
 
-    ## Exploratory Data Analysis
+Exploratory Data Analysis
   
 
     
