@@ -64,7 +64,11 @@ Project Insights as of March 2023
 ## Country
 * **The United States** witnessed the most layoffs(1,49,558) with the majority coming from the **SF Bay Area** (72,085).
 * **India** had the 2nd most layoffs (19,378) with **Bengaluru**(8,872) and **Gurugram**(4,256) having the most layoffs.
+* **The Netherlands** had the 3rd most layoffs (11,220) with **Amsterdam** accumulating the majority of them (11,140).
 
+## Stage
+* Companies that were in a **Post - IPO** stage laid off the most employees - **1,16,564**.
+* Followed by **Acquired** with 22,903 layoffs and Series C with **14,954** layoffs.
 
 
      
